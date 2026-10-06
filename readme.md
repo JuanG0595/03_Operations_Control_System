@@ -30,6 +30,44 @@ The company needs a structured system to organize, track, process and monitor ad
 
 ### Project Blueprint
 
+                         NORTHBRIDGE
+                              │
+                  Operational Information
+                              │
+               ┌──────────────┼──────────────┐
+               │              │              │
+             Email          Teams          Forms
+               │              │              │
+               └──────────────┼──────────────┘
+                              ↓
+                       REQUEST REGISTER
+                              │
+                    Identify / Understand
+                              │
+                          Classify
+                              │
+                          Register
+                              │
+                  Assess Initial Priority
+                              │
+              WORKLOAD REVIEW / REPRIORITIZATION
+                              │
+                       Assign / Process
+                              │
+             ┌────────────────┼────────────────┐
+             ↓                ↓                ↓
+           Tasks          Documents         Meetings
+             │                │                │
+             └────────────────┼────────────────┘
+                              ↓
+                          Follow-up
+                              │
+                          Verification
+                              │
+                            Close
+                              │
+                          Reporting
+
 ## Role
 
 ## Core Processes
@@ -60,7 +98,7 @@ Northbridge Business Solutions
 
 ## Functions of the work area
 
-| Área                   | Función                                                             |
+| Area                   | Function                                                            |
 | ---------------------- | --------------------------------------------------------------------|
 | Operations             | Prefabricated construction + on-site support                        |
 | Administrative Support | Receiving, organizing, registering, coordinating, and tracking      |
