@@ -207,6 +207,6 @@ The board follows a Kanban workflow:
 - **In Progress:** Tasks currently being handled.
 - **Done:** Completed tasks.
 
-**https://trello.com/invite/b/6ad774ea4f52fcddedc25fce/ATTI1f0f9edd4b1ef50c79dd856bae96809f57628505/northbridge**
+**https://trello.com/b/FLflNJOM**
 
 *Note: This board is part of a simulated administrative operations project. All operational scenarios are fictional.*
