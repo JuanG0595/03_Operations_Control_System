@@ -28,6 +28,32 @@ The company needs a structured system to organize, track, process and monitor ad
 
 ### Scope & Constraints
 
+The project focuses on simulating routine administrative and operational support activities within Northbridge Business Solutions.
+
+*In scope:*
+
+    -Receiving, classifying, and registering operational requests.
+
+    -Creating and tracking administrative tasks.
+
+    -Coordinating meetings and document access.
+
+    -Reviewing documentation and identifying discrepancies.
+
+    -Managing follow-ups and dependencies between departments.
+
+    -Recording completed activities and maintaining traceability.
+
+*Constraints:*
+
+    -All business scenarios and operational records are fictional.
+
+    -Administrative Support does not authorize payments, approve financial discrepancies, or validate technical decisions.
+
+    -Actions requiring departmental approval remain assigned to the responsible team.
+
+    -The system is designed as a portfolio simulation, not a production enterprise application.
+
 ### Project Blueprint
 
                          NORTHBRIDGE
@@ -70,13 +96,76 @@ The company needs a structured system to organize, track, process and monitor ad
 
 ## Role
 
+*Junior Administrative / Operations Assistant*
+
+Responsible for supporting daily administrative operations by organizing incoming requests, maintaining records, coordinating activities, monitoring deadlines, and communicating relevant information to stakeholders.
+
 ## Core Processes
+
+*The Operations Control System follows a structured workflow:*
+
+    1.Receive and understand operational information.
+
+    2.Classify and register requests.
+
+    3.Assess priorities, deadlines, and dependencies.
+
+    4.Create and manage associated tasks.
+
+    6.Execute administrative actions and coordinate stakeholders.
+
+    7.Record completed activities.
+
+    8.Monitor pending responses and follow-up dates.
+
+    9.Verify outcomes and close requests when their requirements have been fulfilled.
+
+    10.Review operational workload and prepare reports.
 
 ## Tools
 
+Tool                |               Purpose
+_____________________________________________________________________________________________________________________
+
+Microsoft Excel     |               Structured records, request tracking, task management, and activity logging
+
+Trello              |               Kanban visualization of task execution
+
+Gmail               |               Simulated professional communication
+
+Google Calendar     |               Meeting coordination and follow-up reminders
+
+GitHub              |               Version control, project documentation, and portfolio presentation
+
 ## Data
 
+*The system currently uses three main operational datasets:*
+
+*Requests:* Maintains the central register of operational requests, including ownership, priorities, deadlines, status, next actions, and follow-up dates.
+
+*Tasks:* Records actionable work associated with individual requests, including task ownership, due dates, and execution status.
+
+*Activity_Log:* Provides a chronological record of administrative actions performed during the simulation.
+
+Unique identifiers connect tasks and activities to their corresponding requests, supporting traceability across the system.
+
 ## Expected Outcomes
+
+*The project aims to demonstrate:*
+
+    -Consistent registration and tracking of administrative requests.
+
+    -Clear visibility into task execution and pending work.
+
+    -Improved coordination of simulated cross-departmental activities.
+
+    -Traceability of actions, decisions, and follow-ups.
+
+    -Structured information suitable for operational reporting.
+
+    -Practical application of administrative and operations support skills.
+
+Operational performance indicators and consolidated reporting will be developed in a subsequent project phase.
 
 ## Organizational structure inside the company
 Northbridge Business Solutions
@@ -107,3 +196,17 @@ Northbridge Business Solutions
 | Management             | Supervision, decision-making, and improvement                       |
 | Clients                | Service requests and requirements                                   |
 | Vendors                | Invoices, documents, supplies, and services                         |
+
+## Task Management – Trello
+
+The Northbridge Operations Control System uses Trello to visualize and manage administrative tasks throughout their execution.
+
+The board follows a Kanban workflow:
+
+- **To Do:** Tasks awaiting execution.
+- **In Progress:** Tasks currently being handled.
+- **Done:** Completed tasks.
+
+**https://trello.com/invite/b/6ad774ea4f52fcddedc25fce/ATTI1f0f9edd4b1ef50c79dd856bae96809f57628505/northbridge**
+
+*Note: This board is part of a simulated administrative operations project. All operational scenarios are fictional.*
